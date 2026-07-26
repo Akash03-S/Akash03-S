@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Akashdeep Singh 👋 
 
-<!--
-**Akash03-S/Akash03-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 DevOps & Infrastructure Automation Engineer
+I build reliable, scalable infrastructure and automated deployment pipelines. Passionate about Cloud Native technologies, Linux automation, and CI/CD.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Stack & Tools
+- **Operating Systems:** Linux (Ubuntu/Debian/RHEL), macOS
+- **Scripting & Automation:** Bash Shell Scripting, Python, Crontab
+- **Version Control:** Git, GitHub, Git Branching Strategies
+- **Cloud & DevOps:** Docker, Kubernetes, AWS, Terraform, GitHub Actions
+
+---
+
+### 📂 Featured DevOps Projects
+- 🛠️ **[DevOps Journey Repo](https://github.com/Akash03-S/devops-journey):** Production-ready Bash automation scripts, automated system health monitors, crontab automations, and log cleanup utilities.
+
+---
+
+### 📈 GitHub Stats
+![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash03-S&show_icons=true&theme=dark)
