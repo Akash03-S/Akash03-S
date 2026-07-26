@@ -15,8 +15,4 @@ I build reliable, scalable infrastructure and automated deployment pipelines. Pa
 
 ### 📂 Featured DevOps Projects
 - 🛠️ **[DevOps Journey Repo](https://github.com/Akash03-S/devops-journey):** Production-ready Bash automation scripts, automated system health monitors, crontab automations, and log cleanup utilities.
-
----
-
-### 📈 GitHub Stats
-![Akash's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akash03-S&show_icons=true&theme=dark)
+-
